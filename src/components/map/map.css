@@ -1,0 +1,9 @@
+.map-container{
+    width: 90%;
+    display: block;
+    margin: auto;
+    color: #fff;
+}
+.map{
+    width: 100%;
+}

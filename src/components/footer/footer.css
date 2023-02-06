@@ -1,0 +1,39 @@
+
+footer{
+   display: flex;
+   width: 99%;
+    height: min-content;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+.socials{
+    text-align: center;
+}
+.socials ul{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+select{
+    border: 1px solid gray;
+    background-color: transparent;
+    color: #ffff;
+    width: 150px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+select option{
+    background-color:#000;
+    color: #FFF;
+    padding: 8px 16px;
+}
